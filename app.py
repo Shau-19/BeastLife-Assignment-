@@ -219,7 +219,7 @@ with col3:
         weekly = df2.groupby(["week", "category"]).size().reset_index(name="count")
         fig3 = px.area(weekly, x="week", y="count",
                        color="category", color_discrete_map=CAT_COLORS)
-        fig3.update_layout(height=280, margin=dict(t=10, b=10, l=10, r=10),
+        fig3.update_layout(height=420, margin=dict(t=10, b=40, l=10, r=10),
                            paper_bgcolor="rgba(0,0,0,0)",
                            legend=dict(orientation="h", y=1.1))
         st.plotly_chart(fig3, use_container_width=True)

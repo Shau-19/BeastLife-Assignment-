@@ -1,0 +1,113 @@
+{
+  "name": "Beastlife — AI Customer Query Classifier",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "beastlife-webhook",
+        "options": {}
+      },
+      "id": "node-1",
+      "name": "Incoming Message",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://nonpurposive-nonpervertedly-duncan.ngrok-free.dev/webhook",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Content-Type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"message\": \"{{ $json.body.message }}\",\n  \"channel\": \"{{ $json.body.channel }}\",\n  \"sender_id\": \"{{ $json.body.sender_id }}\",\n  \"provider\": \"auto\"\n}",
+        "options": {}
+      },
+      "id": "node-2",
+      "name": "Call Beastlife API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "dataType": "boolean",
+        "value1": "={{ $json.auto_resolvable }}",
+        "rules": {
+          "rules": [
+            { "value2": true, "output": 0 },
+            { "value2": false, "output": 1 }
+          ]
+        }
+      },
+      "id": "node-3",
+      "name": "Route — Auto or Escalate",
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 1,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://webhook.site/REPLACE-WITH-YOUR-ID",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Content-Type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"status\": \"AUTO-REPLY SENT\",\n  \"to\": \"{{ $('Incoming Message').item.json.body.sender_id }}\",\n  \"message\": \"{{ $('Call Beastlife API').item.json.auto_reply }}\",\n  \"category\": \"{{ $('Call Beastlife API').item.json.category }}\",\n  \"confidence\": \"{{ $('Call Beastlife API').item.json.confidence }}\"\n}",
+        "options": {}
+      },
+      "id": "node-4",
+      "name": "Auto-Reply (webhook.site test)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [900, 160]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://webhook.site/REPLACE-WITH-YOUR-ID",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Content-Type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"status\": \"ESCALATED\",\n  \"category\": \"{{ $('Call Beastlife API').item.json.category }}\",\n  \"confidence\": \"{{ $('Call Beastlife API').item.json.confidence }}\",\n  \"sentiment\": \"{{ $('Call Beastlife API').item.json.sentiment }}\",\n  \"action\": \"{{ $('Call Beastlife API').item.json.suggested_action }}\",\n  \"channel\": \"{{ $('Incoming Message').item.json.body.channel }}\",\n  \"message\": \"{{ $('Incoming Message').item.json.body.message }}\",\n  \"sender\": \"{{ $('Incoming Message').item.json.body.sender_id }}\"\n}",
+        "options": {}
+      },
+      "id": "node-5",
+      "name": "Escalate (webhook.site test)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [900, 440]
+    }
+  ],
+  "connections": {
+    "Incoming Message": {
+      "main": [[{ "node": "Call Beastlife API", "type": "main", "index": 0 }]]
+    },
+    "Call Beastlife API": {
+      "main": [[{ "node": "Route — Auto or Escalate", "type": "main", "index": 0 }]]
+    },
+    "Route — Auto or Escalate": {
+      "main": [
+        [{ "node": "Auto-Reply (webhook.site test)", "type": "main", "index": 0 }],
+        [{ "node": "Escalate (webhook.site test)", "type": "main", "index": 0 }]
+      ]
+    }
+  },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

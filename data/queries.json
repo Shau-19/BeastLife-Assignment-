@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1173,
+    "message": "my order still not here its been 3 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-03-13 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1190,
+    "message": "wrong item sent!! i ordered creatine not this",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2026-03-12 12:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1006,
+    "message": "order was supposed to arrive 2 days ago. still waiting!!",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-03-12 06:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1002,
+    "message": "wheres my package bro order #463884",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-03-11 13:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1199,
+    "message": "refund pls for order #477731",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2026-03-10 11:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1004,
+    "message": "i paid for express delivery but its 7 days late already",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-03-10 04:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1118,
+    "message": "track my order #744509 please",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2026-03-09 12:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1060,
+    "message": "Can you share the tracking number for order #401591?",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2026-03-08 06:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1039,
+    "message": "Where is my order #841341? I placed it 8 days ago.",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-03-07 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1138,
+    "message": "upi failed but rs 2907 debited. order #122050",
+    "category": "Payment Failure",
+    "channel": "Website Chat",
+    "timestamp": "2026-03-07 17:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1112,
+    "message": "how do i pause subscription for 2 days?",
+    "category": "Subscription Issue",
+    "channel": "Email",
+    "timestamp": "2026-03-07 08:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1108,
+    "message": "i want to return order #296864 and get full refund",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2026-03-06 21:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1161,
+    "message": "product not as described requesting refund and return pickup",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2026-03-06 00:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1191,
+    "message": "track my order #241657 please",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-03-06 00:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1105,
+    "message": "Can you share the tracking number for order #853007?",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-03-03 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1078,
+    "message": "i paid for express delivery but its 11 days late already",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-03-02 02:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1176,
+    "message": "my order still not here its been 8 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "Website Chat",
+    "timestamp": "2026-03-02 00:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1045,
+    "message": "wrong item sent!! i ordered pre-workout not this",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2026-03-01 20:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1159,
+    "message": "my order still not here its been 3 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-03-01 07:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1186,
+    "message": "do you have loyalty program?",
+    "category": "General Inquiry",
+    "channel": "Instagram DM",
+    "timestamp": "2026-03-01 02:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1027,
+    "message": "how long does standard delivery take?",
+    "category": "General Inquiry",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-28 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1050,
+    "message": "Where is my order #280218? I placed it 8 days ago.",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-28 08:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1152,
+    "message": "my order still not here its been 6 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-02-27 17:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1097,
+    "message": "Where is my order #559635? I placed it 5 days ago.",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-27 14:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1181,
+    "message": "what are your delivery timings?",
+    "category": "General Inquiry",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-27 14:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1026,
+    "message": "refund of rs 1816 not credited yet. order #753220",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-26 10:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1149,
+    "message": "wheres my package bro order #497698",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-24 23:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1058,
+    "message": "order #339263 still showing processing when will it ship??",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-24 10:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1128,
+    "message": "wrong item sent!! i ordered whey protein not this",
+    "category": "Product Complaint",
+    "channel": "Email",
+    "timestamp": "2026-02-23 09:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1182,
+    "message": "packaging torn product damaged inside",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-23 05:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1142,
+    "message": "do you deliver to Hyderabad?",
+    "category": "General Inquiry",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-22 17:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1007,
+    "message": "order #245816 still showing processing when will it ship??",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-21 06:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1016,
+    "message": "courier keeps rescheduling. order #504259. pathetic service",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-02-21 00:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1071,
+    "message": "refund of rs 2415 not credited yet. order #460386",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-20 23:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1106,
+    "message": "refund pls for order #245104",
+    "category": "Refund Request",
+    "channel": "Email",
+    "timestamp": "2026-02-20 19:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1036,
+    "message": "expected delivery was 12 Mar but nothing arrived wtf",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-02-20 00:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1018,
+    "message": "wheres my package bro order #353469",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-19 15:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1119,
+    "message": "charged twice for order #944066 please refund the extra",
+    "category": "Refund Request",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-19 08:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1107,
+    "message": "received expired product seal already broken \ud83d\ude21",
+    "category": "Product Complaint",
+    "channel": "Email",
+    "timestamp": "2026-02-18 06:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1033,
+    "message": "how do i cancel my plan?",
+    "category": "Subscription Issue",
+    "channel": "Email",
+    "timestamp": "2026-02-17 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1156,
+    "message": "Can you share the tracking number for order #226122?",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-17 16:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1012,
+    "message": "charged twice for same order #574807",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-16 23:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1162,
+    "message": "Can you share the tracking number for order #555166?",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-15 21:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1121,
+    "message": "i paid for express delivery but its 4 days late already",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-15 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1172,
+    "message": "wheres my package bro order #874441",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-15 13:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1113,
+    "message": "where is my order #880470??",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-15 00:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1051,
+    "message": "minimum order for free delivery?",
+    "category": "General Inquiry",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-14 08:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1015,
+    "message": "wrong item sent!! i ordered creatine not this",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-14 03:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1064,
+    "message": "track my order #662640 please",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-13 09:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1084,
+    "message": "courier keeps rescheduling. order #368034. pathetic service",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-13 02:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1175,
+    "message": "wrong item sent!! i ordered protein powder not this",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-12 23:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1169,
+    "message": "charged twice for same order #188248",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-12 21:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1154,
+    "message": "wallet balance deducted but order not placed",
+    "category": "Payment Failure",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-12 10:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1163,
+    "message": "refund pls for order #787732",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-12 05:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1150,
+    "message": "wheres my package bro order #806133",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2026-02-11 21:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1145,
+    "message": "its been 10 days still no refund. where is my money??",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-11 14:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1031,
+    "message": "where is my order #455578??",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-11 07:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1029,
+    "message": "transaction pending for 4 days is order confirmed?",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-11 02:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1168,
+    "message": "expected delivery was 08 Mar but nothing arrived wtf",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-02-10 17:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1010,
+    "message": "packaging torn product damaged inside",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-10 12:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1095,
+    "message": "how long does standard delivery take?",
+    "category": "General Inquiry",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-09 23:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1180,
+    "message": "auto renewed without any notification!!",
+    "category": "Subscription Issue",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-09 22:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1048,
+    "message": "track my order #389544 please",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-08 14:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1148,
+    "message": "Can you share the tracking number for order #993211?",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-08 03:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1049,
+    "message": "how do i cancel my plan?",
+    "category": "Subscription Issue",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-07 20:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1032,
+    "message": "order was supposed to arrive 12 days ago. still waiting!!",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-02-07 12:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1077,
+    "message": "product broke on first use. total scam",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-07 11:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1170,
+    "message": "wheres my package bro order #103713",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-07 05:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1061,
+    "message": "product not as described requesting refund and return pickup",
+    "category": "Refund Request",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-07 02:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1101,
+    "message": "track my order #185488 please",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-06 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1011,
+    "message": "order #992811 still showing processing when will it ship??",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-06 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1014,
+    "message": "do you have loyalty program?",
+    "category": "General Inquiry",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-05 21:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1127,
+    "message": "delivery delayed again. order #590098. very frustrated.",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-05 03:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1102,
+    "message": "charged twice for same order #476680",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-04 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1136,
+    "message": "i want to return order #745887 and get full refund",
+    "category": "Refund Request",
+    "channel": "Email",
+    "timestamp": "2026-02-04 11:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1080,
+    "message": "where is my order #870931??",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-04 00:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1093,
+    "message": "product broke on first use. total scam",
+    "category": "Product Complaint",
+    "channel": "Email",
+    "timestamp": "2026-02-03 17:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1133,
+    "message": "i want to return order #996687 and get full refund",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-03 10:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1090,
+    "message": "i paid for express delivery but its 10 days late already",
+    "category": "Delivery Delay",
+    "channel": "Website Chat",
+    "timestamp": "2026-02-03 01:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1178,
+    "message": "got wrong flavor. ordered multivitamin got something else",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-02 06:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1009,
+    "message": "getting payment gateway error every time i try",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-02 03:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1157,
+    "message": "its been 8 days still no refund. where is my money??",
+    "category": "Refund Request",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-02 03:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1052,
+    "message": "refund pls for order #297936",
+    "category": "Refund Request",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-01 20:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1134,
+    "message": "wheres my package bro order #676894",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-01 18:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1116,
+    "message": "subscription discount not applying at checkout",
+    "category": "Subscription Issue",
+    "channel": "Instagram DM",
+    "timestamp": "2026-02-01 11:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1167,
+    "message": "wallet balance deducted but order not placed",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-02-01 04:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1141,
+    "message": "getting payment gateway error every time i try",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-31 05:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1196,
+    "message": "charged for subscription i cancelled last month wtf",
+    "category": "Subscription Issue",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-31 03:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1143,
+    "message": "product broke on first use. total scam",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-31 01:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1158,
+    "message": "Where is my order #164707? I placed it 3 days ago.",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-31 01:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1126,
+    "message": "i paid for express delivery but its 8 days late already",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-29 18:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1054,
+    "message": "upi failed but rs 2763 debited. order #849520",
+    "category": "Payment Failure",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-28 21:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1109,
+    "message": "delivery delayed again. order #519601. very frustrated.",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-28 18:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1117,
+    "message": "getting payment gateway error every time i try",
+    "category": "Payment Failure",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-28 16:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1132,
+    "message": "Can you share the tracking number for order #347752?",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-27 14:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1195,
+    "message": "what are your delivery timings?",
+    "category": "General Inquiry",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-26 21:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1131,
+    "message": "order was supposed to arrive 12 days ago. still waiting!!",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-26 09:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1166,
+    "message": "received wrong product need refund for #892893",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-25 12:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1151,
+    "message": "my order still not here its been 10 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-01-25 08:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1057,
+    "message": "track my order #729245 please",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-24 08:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1094,
+    "message": "Where is my order #411073? I placed it 3 days ago.",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-23 10:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1067,
+    "message": "i paid for express delivery but its 12 days late already",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-23 05:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1198,
+    "message": "got wrong flavor. ordered whey protein got something else",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-22 13:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1088,
+    "message": "Can you share the tracking number for order #115626?",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-21 23:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1042,
+    "message": "no update on my order placed on 07 Mar \ud83d\ude24",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-21 22:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1065,
+    "message": "wrong item sent!! i ordered multivitamin not this",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-21 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1185,
+    "message": "i paid for express delivery but its 2 days late already",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-01-21 13:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1197,
+    "message": "track my order #573207 please",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-21 12:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1069,
+    "message": "Where is my order #501912? I placed it 5 days ago.",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-19 22:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1189,
+    "message": "minimum order for free delivery?",
+    "category": "General Inquiry",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-19 13:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1021,
+    "message": "my creatine stopped working after 3 days only",
+    "category": "Product Complaint",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-19 05:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1146,
+    "message": "quality is terrible not what was shown on website",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-19 02:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1086,
+    "message": "wheres my package bro order #102230",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-18 20:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1056,
+    "message": "product not as described requesting refund and return pickup",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-17 17:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1003,
+    "message": "track my order #424496 please",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-17 04:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1022,
+    "message": "no update on my order placed on 04 Mar \ud83d\ude24",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-17 03:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1183,
+    "message": "delivery delayed again. order #277540. very frustrated.",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-01-17 03:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1188,
+    "message": "wrong item sent!! i ordered creatine not this",
+    "category": "Product Complaint",
+    "channel": "Email",
+    "timestamp": "2026-01-16 22:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1053,
+    "message": "payment failed but money got deducted \ud83d\ude24",
+    "category": "Payment Failure",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-16 18:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1034,
+    "message": "got wrong flavor. ordered whey protein got something else",
+    "category": "Product Complaint",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-15 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1076,
+    "message": "its been 6 days still no refund. where is my money??",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-15 15:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1017,
+    "message": "Where is my order #316187? I placed it 7 days ago.",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-15 11:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1114,
+    "message": "wrong item sent!! i ordered creatine not this",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-15 01:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1073,
+    "message": "got wrong flavor. ordered whey protein got something else",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-14 19:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1040,
+    "message": "courier keeps rescheduling. order #976045. pathetic service",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-14 11:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1104,
+    "message": "product not as described requesting refund and return pickup",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-14 09:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1179,
+    "message": "getting payment gateway error every time i try",
+    "category": "Payment Failure",
+    "channel": "Email",
+    "timestamp": "2026-01-13 18:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1038,
+    "message": "charged for subscription i cancelled last month wtf",
+    "category": "Subscription Issue",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-13 07:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1139,
+    "message": "product not as described requesting refund and return pickup",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-12 18:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1096,
+    "message": "my pre-workout stopped working after 7 days only",
+    "category": "Product Complaint",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-12 14:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1025,
+    "message": "upi failed but rs 399 debited. order #964130",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-11 08:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1037,
+    "message": "no update on my order placed on 05 Mar \ud83d\ude24",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2026-01-11 03:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1193,
+    "message": "expected delivery was 07 Mar but nothing arrived wtf",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-09 09:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1103,
+    "message": "got wrong flavor. ordered multivitamin got something else",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-09 07:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1137,
+    "message": "courier keeps rescheduling. order #475521. pathetic service",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-09 02:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1098,
+    "message": "where is my order #139234??",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-08 20:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1072,
+    "message": "product broke on first use. total scam",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-07 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1123,
+    "message": "my order still not here its been 2 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-06 03:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1047,
+    "message": "order #780787 stuck in transit for a week now",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-05 23:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1144,
+    "message": "track my order #769631 please",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2026-01-05 22:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1174,
+    "message": "do you deliver to Bangalore?",
+    "category": "General Inquiry",
+    "channel": "Email",
+    "timestamp": "2026-01-04 09:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1184,
+    "message": "charged twice for order #560878 please refund the extra",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-04 09:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1100,
+    "message": "i want to return order #157092 and get full refund",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2026-01-03 14:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1001,
+    "message": "expected delivery was 04 Mar but nothing arrived wtf",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-03 06:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1153,
+    "message": "Where is my order #422795? I placed it 5 days ago.",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-02 23:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1079,
+    "message": "wallet balance deducted but order not placed",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2026-01-02 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1192,
+    "message": "charged twice for order #320366 please refund the extra",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-02 19:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1110,
+    "message": "how do i pause subscription for 4 days?",
+    "category": "Subscription Issue",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-02 14:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1083,
+    "message": "what are your delivery timings?",
+    "category": "General Inquiry",
+    "channel": "Instagram DM",
+    "timestamp": "2026-01-01 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1013,
+    "message": "my order still not here its been 2 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2026-01-01 09:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1124,
+    "message": "expected delivery was 04 Mar but nothing arrived wtf",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2025-12-31 12:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1160,
+    "message": "upi failed but rs 2277 debited. order #173279",
+    "category": "Payment Failure",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-31 10:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1020,
+    "message": "subscription discount not applying at checkout",
+    "category": "Subscription Issue",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-30 19:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1135,
+    "message": "do you deliver to Hyderabad?",
+    "category": "General Inquiry",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-30 17:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1044,
+    "message": "expected delivery was 06 Mar but nothing arrived wtf",
+    "category": "Delivery Delay",
+    "channel": "Email",
+    "timestamp": "2025-12-30 09:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1194,
+    "message": "how do i pause subscription for 5 days?",
+    "category": "Subscription Issue",
+    "channel": "Email",
+    "timestamp": "2025-12-30 02:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1041,
+    "message": "refund of rs 778 not credited yet. order #768715",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-29 09:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1019,
+    "message": "refund pls for order #529933",
+    "category": "Refund Request",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-29 06:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1120,
+    "message": "its been 7 days still no refund. where is my money??",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-28 18:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1177,
+    "message": "quality is terrible not what was shown on website",
+    "category": "Product Complaint",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-26 23:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1187,
+    "message": "charged twice for order #407090 please refund the extra",
+    "category": "Refund Request",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-26 21:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1164,
+    "message": "Can you share the tracking number for order #395515?",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-26 15:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1115,
+    "message": "wrong item sent!! i ordered creatine not this",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-26 09:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1074,
+    "message": "Where is my order #939634? I placed it 12 days ago.",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-25 17:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1140,
+    "message": "my order still not here its been 8 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-25 17:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1063,
+    "message": "want to switch from monthly to quarterly plan",
+    "category": "Subscription Issue",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-25 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1068,
+    "message": "minimum order for free delivery?",
+    "category": "General Inquiry",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-25 16:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1023,
+    "message": "order #950943 still showing processing when will it ship??",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2025-12-25 11:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1005,
+    "message": "subscription discount not applying at checkout",
+    "category": "Subscription Issue",
+    "channel": "Email",
+    "timestamp": "2025-12-25 02:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1059,
+    "message": "Where is my order #226449? I placed it 9 days ago.",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2025-12-25 01:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1155,
+    "message": "product broke on first use. total scam",
+    "category": "Product Complaint",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-24 22:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1008,
+    "message": "quality is terrible not what was shown on website",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-24 05:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1070,
+    "message": "refund pls for order #231929",
+    "category": "Refund Request",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-23 10:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1129,
+    "message": "my subscription didnt renew cant access benefits",
+    "category": "Subscription Issue",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-22 14:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1082,
+    "message": "Where is my order #552479? I placed it 9 days ago.",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-21 23:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1024,
+    "message": "upi failed but rs 2429 debited. order #795883",
+    "category": "Payment Failure",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-21 00:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1165,
+    "message": "wallet balance deducted but order not placed",
+    "category": "Payment Failure",
+    "channel": "Email",
+    "timestamp": "2025-12-20 12:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1111,
+    "message": "getting payment gateway error every time i try",
+    "category": "Payment Failure",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-20 02:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1066,
+    "message": "quality is terrible not what was shown on website",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-19 19:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1035,
+    "message": "charged for subscription i cancelled last month wtf",
+    "category": "Subscription Issue",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-19 18:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1089,
+    "message": "what are your delivery timings?",
+    "category": "General Inquiry",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-19 17:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1125,
+    "message": "where is my order #303972??",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-19 16:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1092,
+    "message": "wheres my package bro order #500957",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-19 15:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1046,
+    "message": "refund pls for order #346068",
+    "category": "Refund Request",
+    "channel": "Email",
+    "timestamp": "2025-12-19 09:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1075,
+    "message": "order #449314 still showing processing when will it ship??",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2025-12-17 07:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1028,
+    "message": "delivery delayed again. order #271743. very frustrated.",
+    "category": "Delivery Delay",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-16 22:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1130,
+    "message": "no update on my order placed on 10 Mar \ud83d\ude24",
+    "category": "Order Tracking",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-16 19:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1081,
+    "message": "charged twice for same order #806649",
+    "category": "Payment Failure",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-16 18:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1043,
+    "message": "product not as described requesting refund and return pickup",
+    "category": "Refund Request",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-16 12:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1147,
+    "message": "payment failed but money got deducted \ud83d\ude24",
+    "category": "Payment Failure",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-16 07:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1062,
+    "message": "Can you share the tracking number for order #498561?",
+    "category": "Order Tracking",
+    "channel": "Email",
+    "timestamp": "2025-12-16 03:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1000,
+    "message": "order was supposed to arrive 3 days ago. still waiting!!",
+    "category": "Delivery Delay",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-15 11:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1099,
+    "message": "order #500994 still showing processing when will it ship??",
+    "category": "Order Tracking",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-14 22:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1091,
+    "message": "payment failed but money got deducted \ud83d\ude24",
+    "category": "Payment Failure",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-14 17:28:14",
+    "status": "escalated"
+  },
+  {
+    "id": 1085,
+    "message": "track my order #984973 please",
+    "category": "Order Tracking",
+    "channel": "Website Chat",
+    "timestamp": "2025-12-14 15:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1122,
+    "message": "packaging torn product damaged inside",
+    "category": "Product Complaint",
+    "channel": "Email",
+    "timestamp": "2025-12-14 15:28:14",
+    "status": "resolved"
+  },
+  {
+    "id": 1171,
+    "message": "charged twice for same order #297697",
+    "category": "Payment Failure",
+    "channel": "Email",
+    "timestamp": "2025-12-14 08:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1030,
+    "message": "my order still not here its been 8 days \ud83d\ude21",
+    "category": "Delivery Delay",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-14 06:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1055,
+    "message": "quality is terrible not what was shown on website",
+    "category": "Product Complaint",
+    "channel": "WhatsApp",
+    "timestamp": "2025-12-14 05:28:14",
+    "status": "open"
+  },
+  {
+    "id": 1087,
+    "message": "quality is terrible not what was shown on website",
+    "category": "Product Complaint",
+    "channel": "Instagram DM",
+    "timestamp": "2025-12-14 02:28:14",
+    "status": "resolved"
+  }
+]

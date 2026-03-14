@@ -9,6 +9,13 @@ import plotly.express as px
 import streamlit as st
 
 from classifier.categorize import classify
+import os
+
+# works both locally (.env) and on Streamlit Cloud (secrets)
+if "GROQ_API_KEY" in st.secrets:
+    os.environ["GROQ_API_KEY"]  = st.secrets["GROQ_API_KEY"]
+if "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 DB = "data/beastlife.db"
 

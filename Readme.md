@@ -7,6 +7,7 @@
 ---
 ## Dashboard Link
 Check a working demo of dashboard here : https://beastlife-dashboard.streamlit.app/
+
 Also checkout the worflow here: [Workflow Doc](workflow.md)
 
 
